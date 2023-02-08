@@ -1,0 +1,19 @@
+{
+  "name": "personalsite",
+  "scripts": {
+    "tw-build": "npx tailwindcss -i ./static/css/src/input.css -o ./static/css/dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachB123/Personal_Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachB123/Personal_Website/issues"
+  },
+  "homepage": "https://github.com/ZachB123/Personal_Website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
