@@ -1,0 +1,7 @@
+flask
+flask-wtf
+python-dotenv
+pymysql
+ipython
+werkzeug
+Flask-SSLify
